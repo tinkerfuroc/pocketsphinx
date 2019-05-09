@@ -1,4 +1,4 @@
-# ROS package for pocketsphinx  
+# ROS package for pocketsphinx for Tinker
 Original repository: https://github.com/mikeferguson/pocketsphinx  
   
 Also used repo: https://github.com/gorinars/ros_voice_control  
@@ -6,6 +6,17 @@ Also used repo: https://github.com/gorinars/ros_voice_control
 You can know more about pocketpshinx here: https://cmusphinx.github.io/  
   
 This package is an attempt to bring offline speech recognition to ROS. Pocketsphinx already offers many easy-to-use features in this domain, hence this package can be considered as an extension of pocketsphinx in the ROS world!  
+
+## Tinker TODO List
+
+- [ ] Output Log config AND wrapper writing
+  - [ ] stdout & stderr remap
+  - [ ] ros log properly setting
+  - [ ] properly wrapper writing
+
+- [ ] Function enhancement
+  - [ ] Low voice cut-off
+  - [ ] Noice reduction
 
 ## Dependencies  
 1) pyaudio  

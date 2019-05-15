@@ -1,0 +1,30 @@
+Hi
+Tinker
+start 
+self check
+task
+Carry 
+My Luggage
+Clean Up
+Farewell
+Find 
+My Mates
+General Purpose 
+Service Robot
+Receptionist
+Serving Drinks
+Serve the Breakfast
+Storing Groceries
+Take Out the Garbage
+Clean the Table
+Enhanced General Purpose
+Find My Disk
+Hand My That
+Set the Table
+Restaurant
+Smoothie Chef
+Where is This
+reset to init pose
+follow me
+power off
+power on

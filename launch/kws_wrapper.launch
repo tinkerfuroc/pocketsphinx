@@ -1,0 +1,7 @@
+<launch>
+  <include file="$(find pocketsphinx)/launch/kws.launch">
+    <arg name="hmm" value="$(find pocketsphinx)/model/en-us" />
+    <arg name="dict" value="$(find pocketsphinx)/model/5183.dic" />
+    <arg name="kws" value="$(find pocketsphinx)/model/tinker_kws.txt" />
+  </include>
+</launch>
